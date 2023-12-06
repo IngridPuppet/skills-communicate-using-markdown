@@ -10,3 +10,9 @@ int main() {
     return 0;
 }
 ```
+
+## Next Steps
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
